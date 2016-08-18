@@ -18,4 +18,5 @@ public class Application {
 		System.out.println(myChar);
 		System.out.println(myBoolean);
 	}
+	
 }

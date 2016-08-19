@@ -2,7 +2,6 @@
 
 // import statements go after package statements -- call ocean package and then Fish class
 // packages are hierarchical, like folders within folders; call subfolders via dots
-
 import ocean.Fish;
 import ocean.plants.Seaweed;
 
